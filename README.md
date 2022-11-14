@@ -10,3 +10,6 @@ Below diagram summarises the overall flow of CNN algorithm.
 [Data Set used](https://thinkingneuron.com/wp-content/uploads/2020/10/Face-Images.zip)
 
 The data contains cropped face images of 16 people divided into Training and testing. We will train the CNN model using the images in the Training folder and then test the model by using the unseen images from the testing folder, to check if the model is able to recognise the face number of the unseen images or not.
+
+#### Reference
+https://thinkingneuron.com/face-recognition-using-deep-learning-cnn-in-python/
