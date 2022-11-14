@@ -10,5 +10,3 @@ Below diagram summarises the overall flow of CNN algorithm.
 [Data Set used](https://thinkingneuron.com/wp-content/uploads/2020/10/Face-Images.zip)
 
 The data contains cropped face images of 16 people divided into Training and testing. We will train the CNN model using the images in the Training folder and then test the model by using the unseen images from the testing folder, to check if the model is able to recognise the face number of the unseen images or not.
-
-The CNN algorithm has helped us create many great applications around us! Facebook is the perfect example! It has trained its DeepFace CNN model on millions of images and has an accuracy of 97% to recognize anyone on Facebook.
